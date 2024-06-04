@@ -1,6 +1,9 @@
 # MAMADOU DIAN BARRY
 ####INGINIEUR RESEAUX  INFORMATIAUES ET TELECOMS
-######A Recherche d'emploi, travailleur et passionné, doté de solides compétences organisationnelles, désireux d'obtenir les postes: d'Ingénieur Informaticien et de DevOps. Candidat capable de gérer plusieurs priorités avec une attitude positive. Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'équipe à atteindre les objectifs de l'entreprise.
+A La Recherche d'emploi, travailleur et passionné, doté de solides compétences organisationnelles, 
+désireux d'obtenir les postes: d'Ingénieur Informaticien et de DevOps. 
+Candidat capable de gérer plusieurs priorités avec une attitude positive. 
+Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'équipe à atteindre les objectifs de l'entreprise.
 ## Education
 ETUDIANT EN CLASSE DE MASTER : Réseaux Et Sécurité nformatique ;
 UNIVERSITE NONGO CONAKRY.
@@ -19,7 +22,7 @@ UNIVERSITE NONGO CONAKRY, Juillet 2011.
 ##Experience
     • Assistant Au Département GIT/MIAGE, Université Nongo Conakry - UNC | Octobre 2021 - décembre 2024
 
-####TACHES : 
+####**TACHES **: 
     • Contrôle rigoureux de la qualité des cours d’enseignement ;
     • Réception des plans de cours de toutes les matières ;
     • Planification et la mise en place des emplois de temps des différentes concentrations de la faculté ; 
