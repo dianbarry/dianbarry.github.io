@@ -5,10 +5,10 @@ désireux d'obtenir les postes: d'Ingénieur Informaticien et de DevOps Junior.
 capable de gérer plusieurs priorités avec une attitude positive. 
 Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'équipe à atteindre les objectifs de l'entreprise.
 ## Education
-##### ETUDIANT EN CLASSE DE MASTER dans le domaine des Réseaux Et Sécurités nformatiques ;
+##### Master en Réseaux Et Sécurités nformatiques ;
    UNIVERSITE NONGO CONAKRY.
    Système d'Exploitation Windows et Linux, Cisco CCNA et CyberOps, Sécurité Informatique, DevOps.
-#### diplômé en licence professionnelle : RÉSEAUX INFORMATIQUES
+#### Licence professionnelle en RÉSEAUX INFORMATIQUES
    UNIVERSITE NONGO CONAKRY, Juillet 2011.
 ## competence
    • Perception sociale, Excellente communication ;
