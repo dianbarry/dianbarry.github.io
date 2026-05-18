@@ -1,16 +1,16 @@
 
-#### INGINIEUR RESEAUX ET SECURITE INFORMATIAUES
+### INGINIEUR RESEAUX ET SECURITE INFORMATIAUES
 Travailleur et passionné, doté de solides compétences organisationnelles, 
 désireux d'obtenir les postes: d'Ingénieur Informaticien et de DevOps Junior. 
 capable de gérer plusieurs priorités avec une attitude positive. 
 Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'équipe à atteindre les objectifs de l'entreprise.
-## Education
-##### Master en Réseaux Et Sécurités nformatiques ;
+## EDUCATION
+### MASTER EN RESEAUX ET SECURITE INFORMATIQUE
    UNIVERSITE NONGO CONAKRY.
    Système d'Exploitation Windows et Linux, Cisco CCNA et CyberOps, Sécurité Informatique, DevOps.
-#### Licence professionnelle en RÉSEAUX INFORMATIQUES
+### LICENCE PROFESSIONNELLE EN RESEAUX INFORMATIQUES
    UNIVERSITE NONGO CONAKRY, Juillet 2011.
-## competence
+## COMPETENCES
    • Perception sociale, Excellente communication ;
    •  Prise de décision ;
    • Participation aux inventaires des équipements informatiques et immobiliers ;
@@ -19,8 +19,9 @@ Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'éq
    • Habile à travailler de manière indépendante et collaborative dans un environnement d'équipe ;
    • Motivé, avec un fort sens des responsabilités personnelles ;
    • Capacité avérée à apprendre rapidement et à s’adapter à de nouvelles situations.
-## Experience
- • Assistant Au Département GIT/MIAGE, Université Nongo Conakry - UNC | Octobre 2021 - décembre 2024
+## EXPERIENCES
+ • Chef de departement Genie Informatique de l'Universite Nongo Conakry (UNC)
+ Assistant Au Département Genie Informatique, Université Nongo Conakry - UNC | Octobre 2021 - décembre 2024
 #### TACHES: 
   • Contrôle rigoureux de la qualité des cours d’enseignement ;
   • Réception des plans de cours de toutes les matières ;
@@ -41,7 +42,7 @@ Volonté d'assumer des responsabilités supplémentaires et prêt à aider l'éq
  • Logiciels: Packettracer, VirtualBox,GNS3, VMware, Docker. 
  Technologie: Conténerisation des systèmes, Virtualisation, Cloud Computing, le Docker
 • Sport: Football, Marathon, Autres 
-## intérets
+## INTERETS
  • Lecture, Excursion, Musique, Les Défis, Débat Scientifique, les TICs, Littérature, l’Environnement et le Voyage.
 
 
