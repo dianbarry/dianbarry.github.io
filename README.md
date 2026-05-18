@@ -1,5 +1,5 @@
 
-#### INGINIEUR RESEAUX  INFORMATIAUES ET TELECOMS
+#### INGINIEUR RESEAUX ET SECURITE INFORMATIAUES
 Travailleur et passionné, doté de solides compétences organisationnelles, 
 désireux d'obtenir les postes: d'Ingénieur Informaticien et de DevOps Junior. 
 capable de gérer plusieurs priorités avec une attitude positive. 
